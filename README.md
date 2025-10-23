@@ -31,12 +31,6 @@ Demonstrates working with randomization and string operations.
 
 ---
 
-## 🛠️ Technologies Used
-
-* Python 3.x
-
----
-
 ## 🚀 How to Run
 
 Clone the repository and run any project individually:
@@ -66,4 +60,3 @@ These mini-projects help improve:
 
 This repository is open-source and free to use for educational purposes.
 
-\
