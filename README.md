@@ -29,6 +29,10 @@ Useful for practicing file handling in Python.
 A secure password generator that creates random passwords with customizable length and symbols.
 Demonstrates working with randomization and string operations.
 
+### 6️⃣ PESEL Validator & Sorter
+
+A specialized tool for processing Polish identification numbers (PESEL). It validates the 11-digit format using the official checksum algorithm, verifies birth dates across five different centuries (1800–2200), and allows sorting a list of numbers by date of birth or gender.
+
 ---
 
 ## 🚀 How to Run
